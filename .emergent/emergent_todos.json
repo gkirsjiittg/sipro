@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Restore repo from GitHub + env + deps; verify 22 gates PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 40a: backend server-side sort/filter + aging (umur tahap) untuk endpoint daftar",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 40a: @tanstack/react-table + DataTable v2 + FilterBar/AgingCell/TabPage/TimelineFeed/MoneyText/ChartFrame/KpiCard",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 40b: halaman kanonik /leads/:id & /customers/:id + pindahkan DocChecklist (SELESAI) + TabPage ?tab= di /units/:id & /projects/:id",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 40c: restrukturisasi navigasi 33→26 + hub pages + docs/v2/40_PETA_NAV_V2.md",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 40d: migrasi daftar lain (Deal, Unit, Tugas, AR, Dokumen, Komplain) ke DataTable pro + KPI beranda drill-down",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 40e: gate verify_ia_v2.py + perluas verify_ui_surfaces.py + uji-mutasi + 23 gates hijau",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 40: semua user story US-40-1..4 tercakup implementasi & pengujian",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 40: End-to-End testing pakai testing_agent + perbaiki semua temuan",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 40: update plan.md, test_result.md, docs/v2 status",
+    "status": "pending"
+  }
+]
